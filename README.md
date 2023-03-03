@@ -1,1 +1,2 @@
-###Brincando com (apanhando do) Rust.  Pretendo colocar aqui as coisas que fizer, incluindo as mais bestas.
+Programa que a partir do IP, busca as coordenadas do local e informações climáticas.
+Feito como projeto para começar a aprender Rust.
